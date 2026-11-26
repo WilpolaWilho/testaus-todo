@@ -11,6 +11,8 @@ import {
   loadTasks,
 } from '../public/taskStore.js';
 
+// testikommentti
+
 describe('Tehtävien hallinta', () => {
   beforeEach(() => {
     localStorage.clear();
