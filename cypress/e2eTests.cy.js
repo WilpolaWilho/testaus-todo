@@ -1,6 +1,3 @@
-import { describe, it, expect, beforeEach } from 'vitest';
-import { cy } from 'cypress';
-
 describe('ToDo-sovellus', () => {
   beforeEach(() => {
     cy.visit('/');
